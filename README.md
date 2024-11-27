@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=c,java,sh,linux,artix
+[![My Skills](https://skillicons.dev/icons?i=c,java,bash,linux,arch
 )](https://skillicons.dev)
 
 ## Stats
